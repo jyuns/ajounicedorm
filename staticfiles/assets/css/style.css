@@ -1,0 +1,20 @@
+
+@font-face { font-family: 'netmarbleB'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.1/netmarbleB.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'Atomy-Bold'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.0/Atomy-Bold.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'nanumSquare'; src: url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css')}
+.netmarbleB {
+    font-family: netmarbleB
+}
+
+.atomy {
+    font-family: Atomy-Bold;
+}
+
+.nanumSqure {
+    font-family: nanumSquare;
+}
+
+body {
+    margin:0;
+    margin-bottom:50px;
+}
